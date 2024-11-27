@@ -1,5 +1,8 @@
 
 # EliteCare - Health Assistant
+
+> **Note**: This repository is a personal fork of the original project hosted by the [CSP584-Group18](https://github.com/CSP584-Group18/Health-Assistant) organization.
+
 Overview: EliteCare is an enterprise-level web application designed for the healthcare sector, focusing on online pharmacy services. The primary goal of this project is to streamline the customer experience in selecting and understanding medications by integrating an AI-powered virtual assistant. This assistant helps users with real-time answers to their medication queries, personalized product recommendations, dosage guidance, and potential side-effect checks.
 
 The application leverages RASA AI to handle natural language understanding (NLU) and dialogue management, allowing the system to engage with users in a conversational manner. By analyzing symptoms and preferences, the chatbot can recommend suitable medications and help users navigate through a large variety of pharmaceutical products.
@@ -47,7 +50,7 @@ To get started with the project, follow the steps below:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/CSP584-Group18/Health-Assistant.git
+git clone https://github.com/dhruvpatel77741/Health-Assistant.git
 cd Health-Assistant
 ```
 
@@ -145,8 +148,10 @@ Feel free to adjust any paths or commands according to your development environm
 
 ## Contributors
 
-- [Dhruv Patel](https://github.com/dhruvpatel77741)  
-- [Dirgh Patel](https://github.com/dirghpatel3110)  
-- [Sakshi Patel](https://github.com/sakshipatel29)  
-- [Dhruvi Patel](https://github.com/dhruvipatel-24)  
+- [Dhruv Patel](https://github.com/dhruvpatel77741)
 
+---
+
+## Disclaimer
+
+This repository is a fork of the original [Health-Assistant](https://github.com/CSP584-Group18/Health-Assistant) repository maintained by CSP584-Group18. Updates made here may not be reflected in the original repository.
